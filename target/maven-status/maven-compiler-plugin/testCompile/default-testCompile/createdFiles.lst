@@ -1,0 +1,15 @@
+com\SwagLab\Testcases\CheckoutTest.class
+com\SwagLab\Testcases\InventoryTest.class
+com\SwagLab\Testcases\FinishTest.class
+com\SwagLab\Testcases\LoginTest.class
+com\SwagLab\Pages\InventoryPage.class
+com\SwagLab\Pages\FinishPage.class
+com\SwagLab\Pages\CartPage.class
+com\SwagLab\Pages\LoginPage.class
+com\SwagLab\Testcases\CartTest.class
+com\SwagLab\Pages\ChekoutoverviewPage.class
+com\SwagLab\Utility\PropertiesUtil.class
+com\SwagLab\Testcases\BaseClass.class
+com\SwagLab\Testcases\CheckoutoverviewTest.class
+com\SwagLab\Utility\Utility.class
+com\SwagLab\Pages\CheckoutPage.class
